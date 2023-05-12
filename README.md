@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pw96krw502wd03jj?svg=true)](https://ci.appveyor.com/project/Gts-2022/selenide)
 # Домашнее задание к занятию «2.2. Selenide»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
